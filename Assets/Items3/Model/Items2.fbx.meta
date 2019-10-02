@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: ab960fdb9eb78d245add26f3951b95da
+timeCreated: 1522681905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Aluminum Foil
+    100002: Cotton ball
+    100004: Cotton balls
+    100006: Cube.001
+    100008: //RootNode
+    100010: Plane.004
+    100012: Skillet
+    400000: Aluminum Foil
+    400002: Cotton ball
+    400004: Cotton balls
+    400006: Cube.001
+    400008: //RootNode
+    400010: Plane.004
+    400012: Skillet
+    2300000: Aluminum Foil
+    2300002: Cotton ball
+    2300004: Cotton balls
+    2300006: Cube.001
+    2300008: Plane.004
+    2300010: Skillet
+    3300000: Aluminum Foil
+    3300002: Cotton ball
+    3300004: Cotton balls
+    3300006: Cube.001
+    3300008: Plane.004
+    3300010: Skillet
+    4300000: Cube.001
+    4300002: Cotton ball
+    4300004: Cotton balls
+    4300006: Aluminum Foil
+    4300008: Skillet
+    4300010: Plane.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Foil
+    second: {fileID: 2100000, guid: 7ec76c1c038ce5c40b75807d7afe0e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: c8c1adbe6714586449eadc689d388db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e326c029ec532a243b04d395e5052676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan
+    second: {fileID: 2100000, guid: 7090f551a16ab7943a341671725c69c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Petal
+    second: {fileID: 2100000, guid: 8c59c543f8864b148b8fad3b27b2449a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roller
+    second: {fileID: 2100000, guid: e69dffc145b266748be0e6fd6cc55fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cotton
+    second: {fileID: 2100000, guid: 8b9b31c99668e714fab84938e99e3a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cotton ball
+    second: {fileID: 2100000, guid: 2758f5e9979a31545a190caa9ded2e1e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

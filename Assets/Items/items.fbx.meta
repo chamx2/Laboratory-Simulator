@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: e0d7490544729a44493e30c5cd9710c1
+timeCreated: 1521898753
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle.002
+    100004: Circle.004
+    100006: Cube.001
+    100008: Cube.003
+    100010: Cylinder
+    100012: Cylinder.001
+    100014: Cylinder.002
+    100016: Cylinder.003
+    100018: Cylinder.004
+    100020: Cylinder.005
+    100022: Cylinder.006
+    100024: Cylinder.007
+    100026: Cylinder.008
+    100028: Cylinder.009
+    100030: Cylinder.010
+    100032: //RootNode
+    100034: Plane
+    100036: Plane.003
+    100038: Vert.001
+    100040: Vert.002
+    100042: Vert.007
+    400000: Circle
+    400002: Circle.002
+    400004: Circle.004
+    400006: Cube.001
+    400008: Cube.003
+    400010: Cylinder
+    400012: Cylinder.001
+    400014: Cylinder.002
+    400016: Cylinder.003
+    400018: Cylinder.004
+    400020: Cylinder.005
+    400022: Cylinder.006
+    400024: Cylinder.007
+    400026: Cylinder.008
+    400028: Cylinder.009
+    400030: Cylinder.010
+    400032: //RootNode
+    400034: Plane
+    400036: Plane.003
+    400038: Vert.001
+    400040: Vert.002
+    400042: Vert.007
+    2300000: Circle
+    2300002: Circle.002
+    2300004: Circle.004
+    2300006: Cube.001
+    2300008: Cube.003
+    2300010: Cylinder
+    2300012: Cylinder.001
+    2300014: Cylinder.002
+    2300016: Cylinder.003
+    2300018: Cylinder.004
+    2300020: Cylinder.005
+    2300022: Cylinder.006
+    2300024: Cylinder.007
+    2300026: Cylinder.008
+    2300028: Cylinder.009
+    2300030: Cylinder.010
+    2300032: Plane
+    2300034: Plane.003
+    2300036: Vert.001
+    2300038: Vert.002
+    2300040: Vert.007
+    3300000: Circle
+    3300002: Circle.002
+    3300004: Circle.004
+    3300006: Cube.001
+    3300008: Cube.003
+    3300010: Cylinder
+    3300012: Cylinder.001
+    3300014: Cylinder.002
+    3300016: Cylinder.003
+    3300018: Cylinder.004
+    3300020: Cylinder.005
+    3300022: Cylinder.006
+    3300024: Cylinder.007
+    3300026: Cylinder.008
+    3300028: Cylinder.009
+    3300030: Cylinder.010
+    3300032: Plane
+    3300034: Plane.003
+    3300036: Vert.001
+    3300038: Vert.002
+    3300040: Vert.007
+    4300000: Plane.003
+    4300002: Plane
+    4300004: Circle.004
+    4300006: Cylinder.008
+    4300008: Cylinder.007
+    4300010: Circle.002
+    4300012: Vert.007
+    4300014: Vert.002
+    4300016: Cylinder.006
+    4300018: Cube.001
+    4300020: Cube.003
+    4300022: Circle
+    4300024: Cylinder.005
+    4300026: Cylinder.004
+    4300028: Cylinder.003
+    4300030: Cylinder.009
+    4300032: Cylinder.002
+    4300034: Cylinder.001
+    4300036: Vert.001
+    4300038: Cylinder
+    4300040: Cylinder.010
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 93b574f068eba7842b1c2e5c147a70f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0cbc15860d8df6e4387b4f5c28a62c90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 62998264323629041a117dbac98f7b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: b790a757544fd8a4b8b63c82178cec22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bottle
+    second: {fileID: 2100000, guid: ebccca5bcae563848b6bad104f9bfcec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: marble
+    second: {fileID: 2100000, guid: ad83af8142d43434d8c7c225c7252b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 5958afa0750b3bb4698b9896e170ed9c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
