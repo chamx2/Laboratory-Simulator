@@ -3,10 +3,15 @@ A virtual reality laboratory simulator. The simulation consist of 3 subjects, fo
 
 
 # Technical Requirements
-
-Game engine: Unity 3D 2017.4 LTS
-3D modelling Software: Blender 3D
-Scripting: C#
+Game Engine:
+  - Unity 3D Version 2017.4 LTS
+  
+3D Modelling Software:
+  - Blender 3D
+  
+Scripting Language:
+  - C#
+  
 Current Platform Availability:
   - Android
   - Google Cardboard
