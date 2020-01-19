@@ -1275,7 +1275,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4514230527593050, guid: bcb6684d471b3a345a3be779e91f2a93, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.691
+      value: 0.291
       objectReference: {fileID: 0}
     - target: {fileID: 4514230527593050, guid: bcb6684d471b3a345a3be779e91f2a93, type: 2}
       propertyPath: m_LocalPosition.y
@@ -1575,6 +1575,21 @@ Prefab:
     - target: {fileID: 1301676350546502, guid: 8f5be7b3393f6ac429eb3200e3235864, type: 2}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1301676350546502, guid: 8f5be7b3393f6ac429eb3200e3235864, type: 2}
+      propertyPath: m_Name
+      value: UNICEF Logo
+      objectReference: {fileID: 0}
+    - target: {fileID: 114459134122969282, guid: 8f5be7b3393f6ac429eb3200e3235864,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 46a1829a259f3184585a21f0febab5aa,
+        type: 3}
+    - target: {fileID: 114070127188532986, guid: 8f5be7b3393f6ac429eb3200e3235864,
+        type: 2}
+      propertyPath: m_Text
+      value: LABORATORY SIMULATOR
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8f5be7b3393f6ac429eb3200e3235864, type: 2}
