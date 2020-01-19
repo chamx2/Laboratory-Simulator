@@ -3566,6 +3566,10 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1934767039791090, guid: aff0ca0ac1ce3c545b409ab896e89d5b, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: aff0ca0ac1ce3c545b409ab896e89d5b, type: 2}
   m_IsPrefabParent: 0
@@ -3974,7 +3978,7 @@ Prefab:
     - target: {fileID: 114117675067353450, guid: 4ae8852eab05be14eaa99443196508d3,
         type: 2}
       propertyPath: sceneIndex
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114550571755684228, guid: 4ae8852eab05be14eaa99443196508d3, type: 2}
@@ -4982,7 +4986,7 @@ Prefab:
     - target: {fileID: 114965747005239700, guid: bcb6684d471b3a345a3be779e91f2a93,
         type: 2}
       propertyPath: moveSpeed
-      value: 70
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bcb6684d471b3a345a3be779e91f2a93, type: 2}
@@ -8756,6 +8760,7 @@ MonoBehaviour:
   - {fileID: 1671283832}
   - {fileID: 667051028}
   blackboardTexts:
+  - {fileID: 2010800175}
   - {fileID: 1619964803}
   - {fileID: 1092236666}
   - {fileID: 1016057037}

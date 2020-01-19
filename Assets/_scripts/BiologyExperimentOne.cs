@@ -140,7 +140,7 @@ public class BiologyExperimentOne : MonoBehaviour
 
     void finishExperiment()
     {
-        for (int x = 1; x <= 5; x++)
+        for (int x = 1; x <= 6; x++)
         {
             blackboardTexts[x-1].SetActive(false);
         }

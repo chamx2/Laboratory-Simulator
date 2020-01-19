@@ -1111,7 +1111,8 @@ Prefab:
         type: 2}
       propertyPath: FadeOut
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1467317129555458, guid: 15e51f825ecfc8f469cfd3482d1e85ca,
+        type: 2}
     - target: {fileID: 114502855557552246, guid: 9405c9323af7f17499dd6c477e921499,
         type: 2}
       propertyPath: instructions
