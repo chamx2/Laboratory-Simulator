@@ -8,19 +8,16 @@ public class CloseIntructions : MonoBehaviour {
 	public GameObject instructions;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
 
 		mainMenu.SetActive (false);
 		instructions.SetActive (true);
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
-	public void OpenMenu () {
-
+	public void OpenMenu ()
+    {
 		mainMenu.SetActive (true);
 		Destroy (instructions.gameObject);
 	}

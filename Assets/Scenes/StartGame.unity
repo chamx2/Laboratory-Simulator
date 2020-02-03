@@ -333,12 +333,6 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 1095280758}
   m_Script: {fileID: 11500000, guid: 1cbf3d08a54d1274683bae71491a6bd2, type: 3}
---- !u!114 &370381002 stripped
-MonoBehaviour:
-  m_PrefabParentObject: {fileID: 114723312322629868, guid: 9405c9323af7f17499dd6c477e921499,
-    type: 2}
-  m_PrefabInternal: {fileID: 1095280758}
-  m_Script: {fileID: 11500000, guid: 866a63da8cb09154b92769a8c64a2f11, type: 3}
 --- !u!114 &370381003 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114502855557552246, guid: 9405c9323af7f17499dd6c477e921499,
@@ -1128,9 +1122,16 @@ Prefab:
       propertyPath: sceneNumber
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 114723312322629868, guid: 9405c9323af7f17499dd6c477e921499, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 9405c9323af7f17499dd6c477e921499, type: 2}
   m_IsPrefabParent: 0
+--- !u!114 &1095280759 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114301446069010468, guid: 9405c9323af7f17499dd6c477e921499,
+    type: 2}
+  m_PrefabInternal: {fileID: 1095280758}
+  m_Script: {fileID: 11500000, guid: 4bf5aa807ac71c84d8ef8be31cd15990, type: 3}
 --- !u!1 &1499060387
 GameObject:
   m_ObjectHideFlags: 0
@@ -1567,11 +1568,11 @@ Prefab:
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 370381002}
+      objectReference: {fileID: 1095280759}
     - target: {fileID: 114349018697415652, guid: 8f5be7b3393f6ac429eb3200e3235864,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: GameStart
+      value: SceneSwitchButton
       objectReference: {fileID: 0}
     - target: {fileID: 1301676350546502, guid: 8f5be7b3393f6ac429eb3200e3235864, type: 2}
       propertyPath: m_IsActive
