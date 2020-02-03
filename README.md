@@ -46,5 +46,23 @@ Scene 3:
  
 Note: The game can be navigated without cardboard, to interact you can just tap the screen.
 
+# How to use
+
+If you are new to unity please proceed on this section. 
+
+You can see on the repository, The Asset folder, it contains all the project content that you will see inside your Unity 3D editor or interface. 
+
+## Scripting
+
+This uses C# Mono scripting which can be found in Assets/ Scripts, you can search Scripting on the search bar of the project window to see other Scripts easily.
+
+## Scenes
+
+Unity uses what we called scenes, which contains different contents per each and can be interwined together by using scripts.
+
+## 3D Models
+
+Can be found on Assets/Models or Assets/ Prefabs folders, unity has the built-in function of prefabricating contents for the developer to be easily replicate things inside the engine or editor.
+
 
 
