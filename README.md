@@ -58,11 +58,11 @@ This uses C# Mono scripting which can be found in Assets/ Scripts, you can searc
 
 ## Scenes
 
-Unity uses what we called scenes, which contains different contents per each and can be interwined together by using scripts.
+Unity uses what we called scenes, which contains different contents per each and can be interwined together by using scripts. Scenes can be found in Assets/Scenes/
 
-## 3D Models
+## 3D Models and other Assets
 
-Can be found on Assets/Models or Assets/ Prefabs folders, unity has the built-in function of prefabricating contents for the developer to be easily replicate things inside the engine or editor.
+Can be found on Assets/Game Contents and Assets/ Models folder, unity has the built-in function of prefabricating contents for the developer to be easily replicate things inside the engine or editor, which can be found in Assets/Prefabs
 
 
 
